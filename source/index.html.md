@@ -2,7 +2,7 @@
 title: API Reference
 
 language_tabs:
-  - shell
+  - sunstaryu
   - ruby
   - python
 
